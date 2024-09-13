@@ -19,6 +19,16 @@ const Typography = () => {
 
 
         <p className='line-clamp-3'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis accusamus perspiciatis consequuntur voluptate. Quidem nulla doloribus similique voluptatem quos, sed id fugit fuga eligendi, nam tempore culpa dolorum fugiat delectus, eveniet explicabo a quae officiis tempora excepturi? Dolor ipsum velit nulla quos illum! Nesciunt vero sequi qui earum excepturi unde.</p>
+
+        <p className='font-bold'>merhaba</p>
+        <p className='underline'>merhaba</p>
+        <p className='text-center'>merhaba</p>
+        <p className='line-through'>merhaba</p>
+        <p className='uppercase'>merhaba</p>
+        <p className='lowercase'>merhaba</p>
+        <p className='text-red-400'>merhaba</p>
+        <p className='bg-orange-400'>merhaba</p>
+        <p className='text-red-400'>merhaba</p>
     </div>
   )
 }
